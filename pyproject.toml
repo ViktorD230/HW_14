@@ -2,7 +2,7 @@
 name = "tes"
 version = "0.1.0"
 description = ""
-authors = ["Viktor-Doroshenko <vikd23000@gmail.com>"]
+authors = ["Viktor-Doroshenko <vikd230@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
